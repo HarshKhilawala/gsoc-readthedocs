@@ -107,7 +107,7 @@ Important Links
 ===============
 
 - Link to Project Repository: `CerebStats <https://github.com/cerebunit/cerebstats>`_
-- Link to the PR which includes contributions made during GSoC'21: (Pending)
+- Link to the PR which includes contributions made during GSoC'21: `Pull Request <https://github.com/cerebunit/cerebstats/pull/1>`_
 - Link to CerebStats Documentation: `CerebStats Documentation <https://cerebstats.readthedocs.io/en/latest/>`_
 - Link to GSoC'21 Project Report: `Project Report <https://drive.google.com/file/d/1_O5LT4Gfdy_PyB92JBTWsGdmf4oLv9TJ/view?usp=sharing>`_
 - Link to Data Tables generated from the results obtained by running validation tests against varying mock data:
